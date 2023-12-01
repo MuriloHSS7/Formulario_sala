@@ -1,2 +1,2 @@
 # Formulario_sala
-nomes dos integrantes: Murilo, Marcos Antônio, Douglas, Christian, Gustavo, Igor e Guilherme
+nomes dos integrantes: Murilo, Marcos Antônio, Christian, Gustavo, Igor e Guilherme
